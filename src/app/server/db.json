@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "urunAdi": "tel",
+      "urunResmi": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQVSUqaRtKfYIRZr4DfXd27YPS1or9Kj_CLaRkwNxceRLZh55_7YdIxMUC6l2aeV_ljH7vUTHb9ytQ8piB1RVbbJmArh7EhbJvgGzeY_97bl7IGpYuD5nm2ew&usqp=CAE",
+      "id": 1
+    },
+    {
+      "urunAdi": "res",
+      "urunResmi": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQVSUqaRtKfYIRZr4DfXd27YPS1or9Kj_CLaRkwNxceRLZh55_7YdIxMUC6l2aeV_ljH7vUTHb9ytQ8piB1RVbbJmArh7EhbJvgGzeY_97bl7IGpYuD5nm2ew&usqp=CAE",
+      "id": 2
+    },
+    {
+      "urunAdi": "ds",
+      "urunResmi": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQVSUqaRtKfYIRZr4DfXd27YPS1or9Kj_CLaRkwNxceRLZh55_7YdIxMUC6l2aeV_ljH7vUTHb9ytQ8piB1RVbbJmArh7EhbJvgGzeY_97bl7IGpYuD5nm2ew&usqp=CAE",
+      "id": 3
+    },
+    {
+      "urunAdi": "12",
+      "urunResmi": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQVSUqaRtKfYIRZr4DfXd27YPS1or9Kj_CLaRkwNxceRLZh55_7YdIxMUC6l2aeV_ljH7vUTHb9ytQ8piB1RVbbJmArh7EhbJvgGzeY_97bl7IGpYuD5nm2ew&usqp=CAE",
+      "id": 4
+    }
+  ],
+  "baskets": []
+}
